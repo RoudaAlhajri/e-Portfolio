@@ -147,6 +147,11 @@ p {
   padding-top: 140px;
 }
 
+.rouda_s1_justify {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
